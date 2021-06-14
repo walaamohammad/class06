@@ -201,3 +201,4 @@ for (let i = 0; i < hourse.length; i++) {
             list.textContent = `Total: ${this.totalSale} cookies`
         }
 
+    }
